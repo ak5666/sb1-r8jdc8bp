@@ -1,3 +1,3 @@
-# sb1-r8jdc8bp
+# air Quality webapp
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/ak5666/sb1-r8jdc8bp)
